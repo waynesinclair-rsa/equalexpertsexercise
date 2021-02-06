@@ -21,6 +21,7 @@ import java.util.List;
 TODO - Refactoring opportunities
         : Use page model
         : Use a reporting plugin - Serenity
+        : Use a build tool - Maven
 */
 
 
