@@ -17,7 +17,8 @@ import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.util.List;
 
-/*TODO - Refactoring opportunities
+/*
+TODO - Refactoring opportunities
         : Use page model
         : Use a reporting plugin - Serenity
 */
