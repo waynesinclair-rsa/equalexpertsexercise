@@ -6,7 +6,6 @@ import java.util.Iterator;
 
 // Runner class
 
-dir
 public class TestRunner {
     public TestRunner() {
     }
